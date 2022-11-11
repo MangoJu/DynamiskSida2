@@ -1,0 +1,61 @@
+{
+    "employment": [
+        {
+            "time": "April '22-Sep '22",
+            "jobTitle": "Content Reviewing & Customer Service",
+            "location": "Blocket",
+            "text": [
+                "Reviewed and moderated all uploaded before final uploading stage",
+                "Made sure all online content followed guidelimnes and policys"
+            ]
+        },
+        {
+            "time": "Jan '21 -March '22",
+            "jobTitle": "Vendor operations",
+            "location": "Foodora",
+            "text": [
+                "Resolved issues, improved operations and provided exception service",
+                "Ensured high-quality onboarding of partners",
+                "Curated team communications and information for meetings"
+            ]
+        },
+        {
+            "time": "April '20 - Jan '21",
+            "jobTitle": "Administration & customers account manager",
+            "location": "Speedy Wine",
+            "text": [
+                "Website editing and ownership",
+                "Volume reports - physical shop, online, events etc.",
+                "Invoicing - reminders, payments, processing",
+                "Developed and maintained effective working relationship with partners through phone, email, text msg and post."
+            ]
+        },
+        {
+            "time": "July '19 - March '20",
+            "jobTitle": "Technical support agent - Google Barcelona",
+            "location": "Google",
+            "text": [
+                "Two months of extensive GPlay, hardware, Google for families and Google one training with various test and assesments",
+                "Agent of tier 1 giving technical support to Google customers via email, phone and chat. ",
+                "Invoicing - reminders, payments, processing",
+                "Tracked my progress and satisfaction rate to further develop and grow satisfaction rate"
+            ]
+        }
+    ],
+
+"education": [
+    "2014-2017 - Fryshuset Gymnasium",
+    "2022-2024 Chas Academy - Frontend UX/UI-design"
+   
+],
+"internships": [
+    {
+        "companyName": "Google -",
+        "text": "Jag googlade hela tiden "
+    },
+    {
+        "companyName": "Fryshuset -",
+        "text": "Jobbade som konferencier på Sveriges Ungdomsentreprenär 2017"
+    }
+]
+}
